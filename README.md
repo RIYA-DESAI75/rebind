@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 # rebind
 # rebind
 # rebind_assignment
+# rebind_assignment
